@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Thapar Store</string>
+    <string name="hint_search">Search anything</string>
+    <string name="search_anything">Search anything</string>
+    <string name="account">Account</string>
+    <string name="sell">Sell</string>
+    <string name="sign_out">Sign out</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_detail">Item detail</string>
+    <string name="item_price">Item Price</string>
+    <string name="create_add">Create add</string>
+    <string name="search">Search</string>
+    <string name="item">\"Item: \"</string>
+    <string name="details">\"Details: \"</string>
+</resources>

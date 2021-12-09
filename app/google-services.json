@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905967020226",
+    "project_id": "thapar-store",
+    "storage_bucket": "thapar-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905967020226:android:76a680aa020250a8b0b35b",
+        "android_client_info": {
+          "package_name": "com.example.thaparstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905967020226-ql03sfbb2am1lfsq7vd3rmh6vb187aha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXiITIk3BkKUWvKGWIAKvrcz9MakuvCio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905967020226-ql03sfbb2am1lfsq7vd3rmh6vb187aha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
